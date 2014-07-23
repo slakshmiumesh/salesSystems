@@ -2,18 +2,22 @@ package com.salesTool.git;
 
 public class SalesData {
 	
-	public static void main(String args[]) {
-		
+			
 		int data[] = { 1, 4, 45};
 		
-	}
+
 		
 		public void display() {
 		
-		System.out.println("Impliment data display");
-		}
-		
+	for(int i=0; i < data.length; i++)
+	{
+		System.out.println("value of i"+i);
 	}
+	}
+		
+}
+		
+	
 
 	
 		
