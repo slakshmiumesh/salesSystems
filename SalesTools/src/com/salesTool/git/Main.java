@@ -18,6 +18,7 @@ public static void displayGreetings() {
 	
 	System.out.println("Seound change");
 	system.out.println("thired chnage");
+	system.out.println("thired chnage");
 }
 
 }
